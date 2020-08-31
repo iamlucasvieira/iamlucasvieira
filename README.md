@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
  I'm **Lucas Vieira dos Santos**, a Brazilian who is fascinated by any machine that flies 🚀 <br>
- - Background: 
+ - Education: Currently in the last year of **Aerospace Engineering** with a **Computer Science** minor @ TU Delft
+ - Free time: Programming (Most likely in Python) or Gamming
+ - Learning: Currently learning Python for Machine Learning
  
  
  
