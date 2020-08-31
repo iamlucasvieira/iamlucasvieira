@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋🏽 I'm **Lucas Vieira dos Santos**, a Brazilian who is fascinated by any machine that flies <br>
+ I'm **Lucas Vieira dos Santos**, a Brazilian who is fascinated by any machine that flies 🚀 <br>
+ 
+ 
+ 
+ 
 🚀 I'm currently studying **Aerospace engineering** with a **Computer Science** minor @ TU Delft 🇳🇱 <br>
 💻 In my free time, when I’m not watching or studying all things space, I’m very likely to be **Programming** <br>
 🐍 **Python** is my go-to language <br>
