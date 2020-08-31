@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋🏽 I'm *Lucas Vieira dos Santos*, a Brazilian who is fascinated by any machine that flies
-🚀 I'm currently studying Aerospace engineering in the Netherlands 
-However, in my free time, when I’m not watching or studying all things space, I’m very likely to be programming
-
-Python is my go-to language, where i have to work on many types of projects, such as engineering design, game development, and the creation of web applications. At the moment, I’m focusing on data science and how to use Python for Machine Learning.
+👋🏽 I'm **Lucas Vieira dos Santos**, a Brazilian who is fascinated by any machine that flies <br>
+🚀 I'm currently studying **Aerospace engineering** with a **Computer Science** minor @ TU Delft 🇳🇱 <br>
+💻 In my free time, when I’m not watching or studying all things space, I’m very likely to be **Programming** <br>
+🐍 **Python** is my go-to language <br>
+🔨 I've worked with engineering design, game development, and creation of web applications <br>
+🌱 I’m currently learning Python for Machine Learning.
