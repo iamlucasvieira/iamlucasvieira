@@ -1,6 +1,6 @@
 ### 👋🏽 Hi there,
- I'm **Lucas Vieira dos Santos**, a Brazilian who is fascinated by any machine that flies 🚀 <br>
- - **Education:** Currently in the last year of a Bachelor in **Aerospace Engineering** with a **Computer Science** minor @ TU Delft
+ I'm **Lucas Vieira dos Santos**, a Brazilian fascinated by any machine that flies 🚀 <br>
+ - **Education:** Currently in my last year of a Bachelor in **Aerospace Engineering** with a **Computer Science** minor @ TU Delft
  - **Learning:** Machine Learning with Python
- - **Free time:** Programming (Most likely in Python) or Gamming
+ - **Free time:** Programming (Most likely in Python) or Gaming
  - **Contact:** [iamlucassantos.github.io](http://iamlucassantos.github.io/)
