@@ -1,12 +1,7 @@
 
-
-### 👋 Hi, I'm Lucas
-> An aerospace engineer and self-taught software developer.
-
-[![LinkedIn Badge][linkedin-badge]][linkedin-url]
-[![Website Badge][website-badge]][website-url]
-[![Email Badge][mail-badge]][mail-url]
-
+> ### **👋 Hi, I'm Lucas**<br>
+> An aerospace engineer and self-taught software developer.<br>
+> *[Website][website-url] ・ [Linkedin][linkedin-url] ・ [Email][mail-url]*
 <br>
 
 
