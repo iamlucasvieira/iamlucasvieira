@@ -5,19 +5,22 @@
 <br>
 
 
-```yaml
-Lucas:
+```python
+if __name__ == "__main__":
 
-  FavoriteProjects:
-    - Name: "AI Autopilot"
-      Description: "Reinforcement learning for safer automatic flight control"
-    - Name: "Auto Drone Tests"
-      Description: "Automated tests for drones software and hardware"
-
-  CodingIn:
-    - Python
-    - Go
-    - C++
+    lucas = """
+        
+        ## Favorite Projects
+        - AI Autopilot: Reinforcement learning for safer automatic flight control
+        - Auto Drone Tests: Automated tests for drones software and hardware
+        
+        ## Coding In
+        - Python
+        - Go
+        - C++
+        
+    """
+    print(lucas)
 ```
 [linkedin-badge]: https://img.shields.io/badge/-LinkedIn-2C2C2C?style=for-the-badge&logo=Linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/iamlucasvieira/
