@@ -17,6 +17,7 @@ if __name__ == "__main__":
         ## Coding In
         - Python
         - Go
+        - Rust
         - C++
         
     """
