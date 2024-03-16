@@ -6,22 +6,7 @@
 
 
 ```python
-if __name__ == "__main__":
-
-    lucas = """
-        
-        ## Favorite Projects
-        - AI Autopilot: Reinforcement learning for safer automatic flight control
-        - Auto Drone Tests: Automated tests for drones software and hardware
-        
-        ## Coding In
-        - Python
-        - Go
-        - Rust
-        - C++
-        
-    """
-    print(lucas)
+coding_in = ["Python", "Go", "Rust", "C++"]
 ```
 [linkedin-badge]: https://img.shields.io/badge/-LinkedIn-2C2C2C?style=for-the-badge&logo=Linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/iamlucasvieira/
