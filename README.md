@@ -5,7 +5,7 @@ Usage: lucas <command> [options]
 
 Commands:
   work      Build web apps that solve complex engineering problems      [Python, Vue.js]
-  fun       Create tools, CLIs and libraries that make life happier     [Rust, Go]
+  fun       Create tools, CLIs and libraries that make life fun         [Rust, Go]
   learn     Develop native desktop apps powered by Tauri                [Tauri, Rust, Vue.js]
 
 Options:
